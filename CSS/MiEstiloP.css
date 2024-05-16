@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(10, 241, 172);
+  }
+  
+  nav{
+    background-color: rgb(10, 241, 172);
+  }
+  
+   nav ul{
+    list-style: none;
+    padding: 2;
+    margin: 0;
+   }
+  
+   nav ul li {
+    display: block;
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px coral;
+    padding: 1px 1px;
+   }
+  
