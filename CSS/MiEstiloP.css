@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(10, 241, 172);
+    background-color: rgb(241, 10, 202);
   }
   
   nav{
@@ -20,4 +20,51 @@ body{
     text-shadow: 2px 2px 2px coral;
     padding: 1px 1px;
    }
-  
+   h1{
+        
+    font-family: 'fenix';
+    font-size: 20px; 
+    text-transform: uppercase;
+    padding: 100px 400px;
+    color: black;
+}
+h2{
+        
+    font-family: 'fenix';
+    font-size: 20px; 
+    text-transform: uppercase;
+    padding: -100px 300px;
+    color: black;
+}
+
+p{   font-family: 'fenix' ;
+        font-size: 20px; 
+        text-transform: lowercase;
+        padding: -100px 400px;
+        color: black;
+}
+
+h3{
+        
+    font-family: 'fenix';
+    font-size: 20px; 
+    text-transform: uppercase;
+    padding: -100px 400px;
+    color: black;
+}
+li{   
+   font-family: 'fenix';
+        font-size: 20px; 
+        text-transform: lowercase;
+        padding: -100px 400px;
+        color: black;
+}
+
+h4{
+        
+    font-family:'fenix';
+    font-size: 20px; 
+    text-transform: uppercase;
+    padding: -100px 400px;
+    color: black;
+}
